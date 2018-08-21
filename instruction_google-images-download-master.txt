@@ -1,0 +1,3 @@
+pip install googleimagesdownload
+
+googleimagesdownload --keywords "saree" --limit 99999 --chromedriver "D:\xrvision\google-images-download-master\google_images_download\chromedriver.exe"
