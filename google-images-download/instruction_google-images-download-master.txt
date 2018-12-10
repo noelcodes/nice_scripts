@@ -1,0 +1,10 @@
+Noel goto tensorflow1 or (xrvision)  env
+
+pip install googleimagesdownload
+
+(xrvision) D:\xrvision\0_google-images-download-master\google_images_download>
+
+python google_images_download.py --keywords "toddler fashion" --limit 9999 --chromedriver "D:\xrvision\0_google-images-download-master\google_images_download\chromedriver.exe"
+
+
+
